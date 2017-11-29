@@ -53,7 +53,7 @@
 |3dbr5t4pygahedms.onion| 	ccpal – ccs – cvv2s – paypal|
 |y3fpieiezy2sin4a.onion| 	HQER – High Quality Euro Counterfeits|
 
-# Deep Web Links Update:
+# Deep Web Links Update
 
 <ul>
 <li><a href="https://www.deepwebsiteslinks.com/deep-web-markets-links/" data-wpel-link="internal" target="_blank" rel="follow">Best Darknet Markets Links</a></li>
@@ -94,3 +94,47 @@
 <li><a href="https://www.deepwebsiteslinks.com/tor-search-engine-links/" data-wpel-link="internal" target="_blank" rel="follow">Search Engine Deep Web Links</a></li>
 <li><a href="https://www.deepwebsiteslinks.com/tor-search-engine-links/" data-wpel-link="internal" target="_blank" rel="follow">Tor/Onion Directory Sites Links</a></li>
 <li><a href="https://www.deepwebsiteslinks.com/deep-web-screenshot/" data-wpel-link="internal" target="_blank" rel="follow">Deep Web Screenshot Collections</a>
+
+# Beginner Level Topics
+
+<p>Under this section, I am defining basic information about the deep web like what is deep web, dark web, facts about the deep web, also define some key points that you should know before access the deep web. Also, I am telling you how you can access the deep web, and how you can setup your secure Tor access network in your computer and some bitcoins related beginner level articles. I am telling you bitcoins because every deep web sites accept payment in bitcoins that’s why you should know about the bitcoins before access the deep web. Let’s start…</p>
+<ul>
+<li><a href="#whatisdeepweb" data-wpel-link="internal" target="_blank" rel="follow">What is deep web?</a></li>
+<li><a href="#whatisdarkweb" data-wpel-link="internal" target="_blank" rel="follow">What is dark web?</a></li>
+<li><a href="https://www.deepwebsiteslinks.com/facts-about-the-deep-web/" data-wpel-link="internal" target="_blank" rel="follow">Facts About the Deep Web</a></li>
+<li><a href="#points" data-wpel-link="internal" target="_blank" rel="follow">Noticeable points that you should know before access the deep web</a></li>
+<li><a href="#howtoaccessthedeepweb" data-wpel-link="internal" target="_blank" rel="follow">How to access the deep web</a></li>
+<li><a href="https://www.deepwebsiteslinks.com/is-it-illegal-to-access-the-deep-web/" data-wpel-link="internal" target="_blank" rel="follow">Is it Illegal to Access the Deep Web? (Truth and Myth)</a></li>
+<li><a href="#whatisbitcoins" data-wpel-link="internal" target="_blank" rel="follow">What is Bitcoins?</a></li>
+<li><a href="#howtodeal" data-wpel-link="internal" target="_blank" rel="follow">How to deals with Bitcoins</a></li>
+<li><a href="https://www.deepwebsiteslinks.com/how-to-get-bitcoin-free/" data-wpel-link="internal" target="_blank" rel="follow">How to get Bitcoins</a></li>
+<li><a href="https://www.deepwebsiteslinks.com/best-bitcoin-wallets/" data-wpel-link="internal" target="_blank" rel="follow">Best Bitcoins wallet for Computer, Android, Web, iPhone</a></li>
+<li><a href="https://www.deepwebsiteslinks.com/best-bitcoin-hardware-wallets-comparison-chart/" data-wpel-link="internal" target="_blank" rel="follow">Best Cryptocurrency Hardware Wallets</a></li>
+<li><a href="https://www.deepwebsiteslinks.com/bitcoin-debit-cards-comparison-chart/" data-wpel-link="internal" target="_blank" rel="follow">Top 5 Bitcoin Debit Card with Comparison Chart</a></li>
+</ul>
+  
+# Medium or Advanced User Topics
+
+<ul>
+<li><a href="https://www.deepwebsiteslinks.com/deep-web-reddit-links/" data-wpel-link="internal" target="_blank" rel="follow">Deep Web Reddit Links</a></li>
+<li><a href="https://www.deepwebsiteslinks.com/deep-web-stories/" data-wpel-link="internal" target="_blank" rel="follow">Deep Web Creepy Stories</a></li>
+<li><a href="https://www.deepwebsiteslinks.com/deep-web-browsers/" data-wpel-link="internal" target="_blank" rel="follow">Best Deep Web Browsers</a></li>
+<li><a href="https://www.deepwebsiteslinks.com/red-room-deep-web/" data-wpel-link="internal" target="_blank" rel="follow">Red Room Deep Web Facts and Links</a></li>
+<li><a href="https://www.deepwebsiteslinks.com/darknet-markets-links/" data-wpel-link="internal" target="_blank" rel="follow">Darknet Markets Links</a></li>
+<li><a href="https://www.deepwebsiteslinks.com/dream-market-url/" data-wpel-link="internal" target="_blank" rel="follow">Dream Market Review and Links</a></li>
+<li><a href="https://www.deepwebsiteslinks.com/traderoute-market/" data-wpel-link="internal" target="_blank" rel="follow">TradeRoute Market Review</a></li>
+<li><a href="https://www.deepwebsiteslinks.com/apple-market/" data-wpel-link="internal" target="_blank" rel="follow">Apple Market Review</a></li>
+<li><a href="https://www.deepwebsiteslinks.com/hansa-market-url/" data-wpel-link="internal" target="_blank" rel="follow">Hansa Market Review</a> <strong>(Seized)</strong></li>
+<li><a href="https://www.deepwebsiteslinks.com/alphabay-market-url/" data-wpel-link="internal" target="_blank" rel="follow">Alphabay Market Review</a> <strong>(Seized)</strong></li>
+<li><a href="https://www.deepwebsiteslinks.com/deep-web-search-engine-list/" data-wpel-link="internal" target="_blank" rel="follow">Deep web search engine list</a></li>
+<li><a href="https://www.deepwebsiteslinks.com/anonymous-email-services/" data-wpel-link="internal" target="_blank" rel="follow">Anonymous Emails Service</a></li>
+</ul>
+  
+# How to buy Bitcoins
+<ul>
+<li><a href="https://www.deepwebsiteslinks.com/how-to-buy-bitcoins-with-paypal/" data-wpel-link="internal" target="_blank" rel="follow">How to buy Bitcoins with PayPal</a></li>
+<li><a href="https://www.deepwebsiteslinks.com/buy-bitcoins-with-credit-card/" data-wpel-link="internal" target="_blank" rel="follow">How to buy Bitcoins with Credit Card</a></li>
+<li><a href="https://www.deepwebsiteslinks.com/buy-bitcoins-with-debit-card/" data-wpel-link="internal" target="_blank" rel="follow">How to buy Bitcoins with Debit Card</a></li>
+<li><a href="https://www.deepwebsiteslinks.com/how-to-buy-bitcoins-with-cash/" data-wpel-link="internal" target="_blank" rel="follow">How to buy Bitcoins with Cash</a></li>
+<li><a href="https://www.deepwebsiteslinks.com/bitcoin-market-trading-platform/" data-wpel-link="internal" target="_blank" rel="follow">Best Trading platform for Trade</a></li>
+</ul>
