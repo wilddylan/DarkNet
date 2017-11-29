@@ -1,7 +1,5 @@
 # DarkNet Links 2017
 
-===
-
 |Link|Description|
 |:---:|:----|
 |shopsat2dotfotbs.onion|TorShops|
@@ -55,9 +53,8 @@
 |3dbr5t4pygahedms.onion| 	ccpal – ccs – cvv2s – paypal|
 |y3fpieiezy2sin4a.onion| 	HQER – High Quality Euro Counterfeits|
 
-===
+# Deep Web Links Update:
 
-<h2 id="tableofcontent">Deep Web Links Update:</h2>
 <ul>
 <li><a href="https://www.deepwebsiteslinks.com/deep-web-markets-links/" data-wpel-link="internal" target="_blank" rel="follow">Best Darknet Markets Links</a></li>
 <li><a href="https://www.deepwebsiteslinks.com/tor-emails-chat-rooms-links/" data-wpel-link="internal" target="_blank" rel="follow">Tor Emails Deep Web Links</a></li>
